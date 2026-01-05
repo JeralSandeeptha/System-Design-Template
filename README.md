@@ -4,3 +4,4 @@
 
 # Table of Contents
 - [What is System Designing](./docs/introduction.md)
+- [System Design Process](./docs/system_design_process.md)

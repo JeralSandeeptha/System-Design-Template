@@ -23,3 +23,7 @@ Add overhead
 Indexes + metadata ≈ 30–50% extra
 
 ➡ Final ≈ 2 TB
+
+<br />
+
+- We should have to calculate per day and retain period as well

@@ -4,3 +4,4 @@
 - Ignoring non-functional requirements
 - Tight coupling between components
 - Not planning for change
+- Ignore cose estimation and planning

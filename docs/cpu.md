@@ -1,1 +1,2 @@
-# Compute Power / Number of Servers / CPUs
+# Compute Power / Number of Servers
+
